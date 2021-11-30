@@ -4,3 +4,7 @@ Första versionen har den raden men inget mer.
 
 Andra versionen har ytterligare en rad
 
+Efter detta gjorde jag commit to main
+
+Den tredje versionen kommer här
+
