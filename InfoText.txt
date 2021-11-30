@@ -1,0 +1,6 @@
+En textfil att testa med
+
+Första versionen har den raden men inget mer.
+
+Andra versionen har ytterligare en rad
+
